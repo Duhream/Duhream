@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning your mom 💀
 - 💬 Ask me about [Lunar Client](https://lunarclient.com) and/or [CheatBreaker](https://github.com/CheatBreaker)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to work at [Offline CheatBreaker](https://offlinecheatbreaker.com) as a developer!
+- ⚡ Fun fact: I work at [Offline CheatBreaker](https://offlinecheatbreaker.com) as a developer!
